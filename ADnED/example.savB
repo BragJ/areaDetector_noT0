@@ -1,4 +1,4 @@
-# autosave R5.0	Automatically generated - DO NOT MODIFY - 161104-155610
+# autosave R5.0	Automatically generated - DO NOT MODIFY - 161125-101602
 BL99:Det:N1:Det1:TOF:Array:PoolUsedMem.SCAN 6
 BL99:Det:N1:Det1:TOF:Mask:0:Min.VAL 0
 BL99:Det:N1:Det1:TOF:Mask:0:Size.VAL 0
@@ -938,8 +938,8 @@ BL99:Det:N1:Det1:XY:Stat:TSRead.SCAN 6
 BL99:Det:N1:Det2:PixelNumEnd.VAL 1023
 BL99:Det:N1:Det2:PixelNumSize.VAL 1024
 BL99:Det:N1:Det2:PixelNumStart.VAL 0
-BL99:Det:N1:Det2:PixelROIFilterSizeX.VAL 1
-BL99:Det:N1:Det2:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det2:PixelROIFilterSizeX.VAL 32
+BL99:Det:N1:Det2:PixelROIFilterSizeY.VAL 32
 BL99:Det:N1:Det2:PixelROIFilterStartX.VAL 0
 BL99:Det:N1:Det2:PixelROIFilterStartY.VAL 0
 BL99:Det:N1:Det2:PixelSizeX.VAL 32
@@ -1071,8 +1071,8 @@ BL99:Det:N1:Det2:TOF:SizeX.VAL 160000
 BL99:Det:N1:Det2:TOF:SizeY.VAL 1000000
 BL99:Det:N1:Det2:TOF:SizeZ.VAL 1000000
 BL99:Det:N1:Det2:TOFNumBins.VAL 1
-BL99:Det:N1:Det2:TOFROIFilterSize.VAL 1
-BL99:Det:N1:Det2:TOFROIFilterStart.VAL 159999
+BL99:Det:N1:Det2:TOFROIFilterSize.VAL -2147483648
+BL99:Det:N1:Det2:TOFROIFilterStart.VAL -2147483648
 BL99:Det:N1:Det2:TOFTransInt0.VAL 0
 BL99:Det:N1:Det2:TOFTransInt1.VAL 0
 BL99:Det:N1:Det2:TOFTransInt2.VAL 0
@@ -1217,8 +1217,8 @@ BL99:Det:N1:Det2:XY:Stat:TSRead.SCAN 6
 BL99:Det:N1:Det3:PixelNumEnd.VAL 1023
 BL99:Det:N1:Det3:PixelNumSize.VAL 5120
 BL99:Det:N1:Det3:PixelNumStart.VAL 0
-BL99:Det:N1:Det3:PixelROIFilterSizeX.VAL 1
-BL99:Det:N1:Det3:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det3:PixelROIFilterSizeX.VAL 0
+BL99:Det:N1:Det3:PixelROIFilterSizeY.VAL 0
 BL99:Det:N1:Det3:PixelROIFilterStartX.VAL 0
 BL99:Det:N1:Det3:PixelROIFilterStartY.VAL 0
 BL99:Det:N1:Det3:PixelSizeX.VAL 32
@@ -1496,8 +1496,8 @@ BL99:Det:N1:Det3:XY:Stat:TSRead.SCAN 6
 BL99:Det:N1:Det4:PixelNumEnd.VAL 1023
 BL99:Det:N1:Det4:PixelNumSize.VAL 163840
 BL99:Det:N1:Det4:PixelNumStart.VAL 0
-BL99:Det:N1:Det4:PixelROIFilterSizeX.VAL 1
-BL99:Det:N1:Det4:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det4:PixelROIFilterSizeX.VAL 0
+BL99:Det:N1:Det4:PixelROIFilterSizeY.VAL 0
 BL99:Det:N1:Det4:PixelROIFilterStartX.VAL 0
 BL99:Det:N1:Det4:PixelROIFilterStartY.VAL 0
 BL99:Det:N1:Det4:PixelSizeX.VAL 32
